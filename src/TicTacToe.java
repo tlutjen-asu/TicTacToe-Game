@@ -5,3 +5,4 @@ public class TicTacToe {
     System.out.println("Tell the developer to actually create the game!");
   }
 }
+// TODO: Add colored output for X and O
